@@ -1,0 +1,30 @@
+[
+  {
+    "id": "c1",
+    "title": "用 ChatGPT 10 分钟写出一份周报",
+    "tool": "ChatGPT",
+    "summary": "输入本周完成事项，让 AI 整理成正式周报格式。",
+    "difficulty": "入门"
+  },
+  {
+    "id": "c2",
+    "title": "用 Midjourney 做一张海报主图",
+    "tool": "Midjourney",
+    "summary": "从写提示词到出图、选图，完整流程演示。",
+    "difficulty": "进阶"
+  },
+  {
+    "id": "c3",
+    "title": "用剪映 AI 给口播视频加字幕",
+    "tool": "剪映 AI",
+    "summary": "导入视频，一键识别语音并生成可编辑字幕。",
+    "difficulty": "入门"
+  },
+  {
+    "id": "c4",
+    "title": "用 WPS AI 做一份会议纪要",
+    "tool": "WPS AI",
+    "summary": "根据录音或笔记要点，生成结构化会议纪要。",
+    "difficulty": "入门"
+  }
+]

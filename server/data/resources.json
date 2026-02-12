@@ -1,0 +1,56 @@
+[
+  {
+    "id": "r1",
+    "name": "AI 入门必读手册",
+    "category": "新手必备",
+    "audience": "零基础用户",
+    "size": "2.3 MB",
+    "downloads": 15200,
+    "desc": "从注册到第一次对话的完整步骤"
+  },
+  {
+    "id": "r2",
+    "name": "通用提示词模板 50 例",
+    "category": "提示词模板",
+    "audience": "学生/职场",
+    "size": "856 KB",
+    "downloads": 22100,
+    "desc": "写作、总结、翻译、头脑风暴等场景"
+  },
+  {
+    "id": "r3",
+    "name": "ChatGPT 操作手册",
+    "category": "操作手册",
+    "audience": "入门用户",
+    "size": "1.5 MB",
+    "downloads": 18900,
+    "desc": "界面说明与常用功能一览"
+  },
+  {
+    "id": "r4",
+    "name": "Midjourney 关键词速查",
+    "category": "提示词模板",
+    "audience": "设计/爱好者",
+    "size": "620 KB",
+    "downloads": 9800,
+    "desc": "风格、光线、构图常用英文词"
+  },
+  {
+    "id": "r5",
+    "name": "WPS AI 办公速成",
+    "category": "操作手册",
+    "audience": "职场人",
+    "size": "1.8 MB",
+    "downloads": 7600,
+    "desc": "文档、表格、PPT 的 AI 用法"
+  },
+  {
+    "id": "r6",
+    "name": "剪映 AI 功能说明",
+    "category": "操作手册",
+    "audience": "视频创作者",
+    "size": "1.2 MB",
+    "downloads": 5400,
+    "desc": "成片、字幕、配音功能说明"
+  }
+]

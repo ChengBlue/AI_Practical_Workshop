@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1",
+    "tool": "chatgpt",
+    "toolName": "ChatGPT",
+    "title": "ChatGPT 零基础入门：注册与基础对话",
+    "difficulty": "入门",
+    "views": 12580,
+    "cover": "/placeholder-tutorial.jpg",
+    "sections": [
+      {
+        "title": "基础操作",
+        "content": "1. 打开 ChatGPT 官网，点击注册。\n2. 使用邮箱或手机号完成注册。\n3. 登录后即可在输入框输入问题，按回车发送。\n4. AI 会实时回复，可继续追问。",
+        "imagePlaceholder": "注册与登录界面示意"
+      },
+      {
+        "title": "进阶技巧",
+        "content": "1. 提问尽量具体，说明背景和期望结果。\n2. 分步骤问复杂问题，效果更好。\n3. 善用「继续」「换一种说法」等追问。",
+        "imagePlaceholder": "高效提问示例"
+      },
+      {
+        "title": "实操任务",
+        "content": "任务：让 ChatGPT 帮你写一封请假邮件。\n步骤：输入「请帮我写一封因感冒请一天假的邮件，语气礼貌」，复制回复并稍作修改即可使用。",
+        "imagePlaceholder": "实操示例"
+      }
+    ],
+    "relatedIds": ["2", "3"]
+  },
+  {
+    "id": "2",
+    "tool": "chatgpt",
+    "toolName": "ChatGPT",
+    "title": "用 ChatGPT 写作业与论文提纲",
+    "difficulty": "进阶",
+    "views": 8920,
+    "cover": "/placeholder-tutorial.jpg",
+    "sections": [
+      {
+        "title": "基础操作",
+        "content": "说明作业或论文题目，让 AI 先列提纲。再按章节逐段润色，注意自己修改和查重。",
+        "imagePlaceholder": "提纲示例"
+      },
+      {
+        "title": "进阶技巧",
+        "content": "可要求「用学术语气」「控制在 800 字」等，避免直接照抄，用于启发思路。",
+        "imagePlaceholder": "提示词示例"
+      },
+      {
+        "title": "实操任务",
+        "content": "输入你的论文题目，让 ChatGPT 生成三级提纲，并选一节让它写 200 字初稿，你再改写。",
+        "imagePlaceholder": "实操"
+      }
+    ],
+    "relatedIds": ["1", "4"]
+  },
+  {
+    "id": "3",
+    "tool": "midjourney",
+    "toolName": "Midjourney",
+    "title": "Midjourney 入门：注册与第一张图",
+    "difficulty": "入门",
+    "views": 7600,
+    "cover": "/placeholder-tutorial.jpg",
+    "sections": [
+      {
+        "title": "基础操作",
+        "content": "1. 通过 Discord 使用 Midjourney。\n2. 加入官方服务器，在频道输入 /imagine。\n3. 在 prompt 后输入描述，如「a cute cat」。\n4. 等待出图，可对结果进行放大、变体。",
+        "imagePlaceholder": "Discord 界面"
+      },
+      {
+        "title": "进阶技巧",
+        "content": "描述越具体越好：主体+风格+光线+构图。常用参数 --ar 16:9 控制比例，--v 6 指定版本。",
+        "imagePlaceholder": "参数说明"
+      },
+      {
+        "title": "实操任务",
+        "content": "用「a serene landscape, sunset, oil painting style --ar 16:9」生成一张图，并尝试 U1 放大。",
+        "imagePlaceholder": "实操"
+      }
+    ],
+    "relatedIds": ["1", "5"]
+  },
+  {
+    "id": "4",
+    "tool": "wps-ai",
+    "toolName": "WPS AI",
+    "title": "WPS AI 写文档与做 PPT",
+    "difficulty": "入门",
+    "views": 6800,
+    "cover": "/placeholder-tutorial.jpg",
+    "sections": [
+      {
+        "title": "基础操作",
+        "content": "1. 打开 WPS 文档或演示，找到 AI 入口。\n2. 输入主题或大纲，一键生成文档/PPT 框架。\n3. 可对段落进行续写、缩写、扩写。",
+        "imagePlaceholder": "WPS AI 入口"
+      },
+      {
+        "title": "进阶技巧",
+        "content": "先写清楚「用途、受众、字数」，再生成；生成后务必人工校对和调整版式。",
+        "imagePlaceholder": "提示示例"
+      },
+      {
+        "title": "实操任务",
+        "content": "用 WPS AI 生成一份「产品介绍」PPT 大纲（5 页），再让 AI 为每一页写简要文案。",
+        "imagePlaceholder": "实操"
+      }
+    ],
+    "relatedIds": ["1", "2"]
+  },
+  {
+    "id": "5",
+    "tool": "jianying",
+    "toolName": "剪映 AI",
+    "title": "剪映 AI 一键成片与智能字幕",
+    "difficulty": "入门",
+    "views": 5400,
+    "cover": "/placeholder-tutorial.jpg",
+    "sections": [
+      {
+        "title": "基础操作",
+        "content": "1. 导入素材，点击「图文成片」或「AI 成片」。\n2. 输入文案或主题，自动生成配音和剪辑。\n3. 使用「智能字幕」自动识别语音并加字幕。",
+        "imagePlaceholder": "成片界面"
+      },
+      {
+        "title": "进阶技巧",
+        "content": "口播类视频优先用智能字幕再微调；成片后记得检查节奏和转场。",
+        "imagePlaceholder": "字幕设置"
+      },
+      {
+        "title": "实操任务",
+        "content": "用 3 张照片 + 一段 100 字文案，使用「图文成片」生成一条 30 秒短视频并导出。",
+        "imagePlaceholder": "实操"
+      }
+    ],
+    "relatedIds": ["3", "4"]
+  }
+]
